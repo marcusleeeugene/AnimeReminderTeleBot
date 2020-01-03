@@ -32,16 +32,11 @@ To begin using the bot, add the telegram handle @animereminder_bot
   Whenever there is a new episode release for the Anime you have added, it will send you a message that looks like this!
 </p>
 
-
-
-
-
-
-
-
-
 ## Technical Stuff:
 1) The bot is deployed onto Heroku Server.
 2) Threading is used to support multiple users each time they start the bot.
 3) It saves the Animes and the details that each user is tracking to Google's Firebase Real-time Database.
 4) The bot scrapes data using BeautifulSoup4 and Selenium from 9Anime to check if there is a new episode release.
+
+(I have included the codes if you are interested. However do create your own API tokens to try it out.)
+P.S. I did not include chromedriver and json key to firebase in this folder. Include your own! :)
