@@ -6,10 +6,11 @@ Hello! This bot notifies you of new episode releases for Animes that you are wat
 
 It performs checks from 9Anime’s website. With this bot, you will never ever need to remember when a new episode will be released! :)
 
-<img src="/images/introduction.PNG" width="30%">
-
 ## How To:
 To begin using the bot, add the telegram handle @animereminder_bot
+
+<img src="/images/introduction.PNG" width="30%"> | <img src="/images/introduction.PNG" width="30%">
+
 
 ## Technical Stuff:
 1) The bot is deployed onto Heroku Server.
