@@ -1,10 +1,12 @@
-# Anime Reminder Telegram Bot
-Telegram handle: @animereminder_bot
+# Anime Reminder Telegram Bot <img src="/images/bot_dp.png" width="5%"/>
+Telegram handle: @animereminder_bot 
 
 ## Introduction
 Hello! This bot notifies you of new episode releases for Animes that you are watching.
 
 It performs checks from 9Anime’s website. With this bot, you will never ever need to remember when a new episode will be released! :)
+
+<img src="/images/introduction.PNG" width="30%">
 
 ## How To:
 To begin using the bot, add the telegram handle @animereminder_bot
