@@ -9,7 +9,12 @@ It performs checks from 9Anime’s website. With this bot, you will never ever n
 ## How To:
 To begin using the bot, add the telegram handle @animereminder_bot
 
-<img src="/images/introduction.PNG" width="30%"> | <img src="/images/introduction.PNG" width="30%">
+
+
+
+
+
+
 
 
 ## Technical Stuff:
