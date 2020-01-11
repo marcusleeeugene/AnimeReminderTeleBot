@@ -119,7 +119,7 @@ def new_episode_reminder(user_id, chat_id):
     for anime in get_anime_list_db(user_id):
         latest_anime_details = get_anime_details(anime)
         if get_anime_details_db(user_id, anime)[0] == "Ongoing" and get_anime_details_db(user_id, anime)[1] != latest_anime_details[2]:
-            update_anime_details_db(user_id, anime_details)
+            update_anime_details_db(user_id, latest_anime_details)
             watch_url = "https://9anime.xyz/watch/" + format_anime_name(anime) + "/ep-" + latest_anime_details[2]
             bot.send_message(chat_id, "New episode release:\n" + anime + " [EP:"+ latest_anime_details[2] + " ]\n" + watch_url)
 
