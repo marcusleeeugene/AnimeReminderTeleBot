@@ -4,10 +4,10 @@ import pyrebase, os
 #https://firebase.google.com/docs/database/admin/save-data
 config = {
   "apiKey": "<API KEY>",
-  "authDomain": "< AUTH DOMAIN >",
-  "databaseURL": "< DATABASE URL >",
-  "storageBucket": "< STORAGE BUCKET >",
-  "serviceAccount": os.getcwd() + "< JSON SERVICE KEY >"
+  "authDomain": "<AUTH DOMAIN>",
+  "databaseURL": "<DATABASE URL>",
+  "storageBucket": "<STORAGE BUCKET>",
+  "serviceAccount": os.getcwd() + "<JSON SERVICE KEY>"
 }
 firebase = pyrebase.initialize_app(config)
 
