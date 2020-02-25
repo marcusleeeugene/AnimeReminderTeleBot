@@ -1,5 +1,6 @@
 # Anime Reminder Telegram Bot <img src="/images/bot_dp.png" width="5%"/>
 Telegram handle: @animereminder_bot 
+*< DOMAIN IS CURRENTLY DOWN >*
 
 ## Introduction
 Hello! This bot notifies you of new episode releases for Animes that you are watching.
